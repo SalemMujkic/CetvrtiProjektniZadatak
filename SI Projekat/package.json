@@ -1,0 +1,11 @@
+{
+  "name": "si-projekat",
+  "version": "1.0.0",
+  "description": "Cetvrti Projektni zadatak iz SI u kojem koristim API i fetch funkciju",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salem Mujkic",
+  "license": "ISC"
+}
