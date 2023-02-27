@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+}
+div{
+    background-color: azure;
+}
+h1{
+    text-align: center;
+    color: azure;
+}
+
+img{
+    width: 100%;
+    
+}
+.container{
+    margin: auto;
+  width: 30%;
+  text-align: center;
+  padding: 10px;
+  
+}
+button{
+    height:50px;
+    width:100px;
+ 
+    
+}
